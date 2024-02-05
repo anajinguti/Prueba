@@ -21,3 +21,4 @@ print('Norma 2:',n2)
 # escribiendo menos líneas de código)
 n3 = math.sqrt(np.sum(v**2))
 print('Norma 3:',n3)
+hola
